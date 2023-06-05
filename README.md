@@ -10,7 +10,8 @@ Helloworld.ino
 ## Store credentials to send data to pastebin
 logindata.ps1
 
-## Get the api userkey to be able to save private pastebins
+## Get the pastebin api userkey with Powershell to be able to save private pastebins
+
 get-apiuserkey.ps1
 
 ## Setting up some exercises to "exfiltrate some important data"
