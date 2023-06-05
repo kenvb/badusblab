@@ -9,7 +9,7 @@ $Body = @{
     api_user_key        = $UserKey;
     api_paste_name	    = $Title;
     api_paste_code      = $Content;
-    api_paste_private   = "2"; # 0=public 1=unlisted 2=private
+    api_paste_private   = "0"; # 0=public 1=unlisted 2=private
     api_option          = "paste";
     }
 
