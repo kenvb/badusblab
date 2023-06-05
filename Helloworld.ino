@@ -1,3 +1,4 @@
+//#define LAYOUT_FRENCH_BELGIAN
 #include “DigiKeyboard.h”
 void setup() {
   DigiKeyboard.delay(5000);
