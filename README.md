@@ -2,29 +2,34 @@
 Badusb lab
 Exfiltrating some data from local files to pastebin using a Digispark - ATtiny85 USB
 
-Testing to see digispark works
+## Testing to see digispark works
 Blink.ino
+
 Helloworld.ino
 
-Store credentials to send data to pastebin
+## Store credentials to send data to pastebin
 logindata.ps1
 
-Get the api userkey to be able to save private pastebins
+## Get the api userkey to be able to save private pastebins
 get-apiuserkey.ps1
 
-Setting up some exercises to "exfiltrate some important data"
+## Setting up some exercises to "exfiltrate some important data"
 new-pastebin.ps1
+
 new-pastebin2.ps1
+
 new-pastebin3.ps1
 
-Showcasing just concatenating all commands to make it easier to convert to ducky script
+## Showcasing just concatenating all commands to make it easier to convert to ducky script
 new-pastebin4.ps1
+
 new-pastebin5.ps1
 
-Executing some lol-script to for demo purposes
+## Executing some lol-script to for demo purposes
 from-pastebin.ps1
 
-Some dummy files so the scripts from the new-pastebinX.ps1 files have some data to return
+## Some dummy files so the scripts from the new-pastebinX.ps1 files have some data to return
 
 password.txt
+
 secret.txt
