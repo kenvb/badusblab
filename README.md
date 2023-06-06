@@ -31,7 +31,7 @@ new-pastebin4.ps1
 ### This one also makes you include your devkey and userkey
 new-pastebin5.ps1
 
-## Executing some lol-script to for demo purposes
+## Executing some joke-script for demo purposes
 from-pastebin.ps1
 
 ## Some dummy files so the scripts from the new-pastebinX.ps1 files have some data to return
