@@ -2,7 +2,7 @@
 Badusb lab
 Exfiltrating some data from local files to pastebin using a Digispark - ATtiny85 USB
 
-## Testing to see digispark works
+## Testing to see whether digispark works
 Blink.ino
 
 Helloworld.ino
