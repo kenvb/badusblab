@@ -10,6 +10,10 @@ Helloworld.ino
 ## Store credentials to send data to pastebin
 logindata.ps1
 
+## Some duckyscript to testcase conversion to Arduino
+Use https://duckify.huhn.me
+duckifyme.txt
+
 ## Get the pastebin api userkey with Powershell to be able to save private pastebins
 
 get-apiuserkey.ps1
