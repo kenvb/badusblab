@@ -21,9 +21,9 @@ new-pastebin2.ps1
 
 new-pastebin3.ps1
 
-## Showcasing just concatenating all commands to make it easier to convert to ducky script
+## Showcasing  concatenating all commands to make it easier to convert to ducky script
 new-pastebin4.ps1
-
+### This one also makes you include your devkey and userkey
 new-pastebin5.ps1
 
 ## Executing some lol-script to for demo purposes
