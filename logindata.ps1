@@ -1,2 +1,2 @@
-$DevKey     =   PUT-DEVKEY-HERE
-$UserKey    =   PUT-USER-KEY-HERE
+$DevKey     =   "PUT-DEVKEY-HERE"
+$UserKey    =   "PUT-USER-KEY-HERE"
